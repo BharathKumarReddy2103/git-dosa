@@ -10,4 +10,12 @@
 
 # Egg Dosa
 * Dosa Batter
-* Egg and Karam
+* 1/2 Eggs, Karam, Oil
+
+# Panner Dosa
+* Dosa batter
+* Panneer Curry
+* Carrot Onion
+* Tomato and Panner scrambled
+* Ghee
+* Light oil
