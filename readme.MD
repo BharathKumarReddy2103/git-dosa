@@ -1,6 +1,6 @@
 # Dosa Shop
 
-# Plain Dosa
+<!-- # Plain Dosa
 * Dosa Batter
 * Light Oil
 
@@ -10,4 +10,4 @@
 
 # Egg Dosa
 * Dosa Batter
-* Egg and Karam
+* Egg and Karam -->
