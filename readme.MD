@@ -2,9 +2,9 @@
 
 # Plain Dosa
 * Dosa Batter
-<!-- * Light Oil
+* Light Oil
 
-# Karam Dosa
+<!-- # Karam Dosa
 * Dosa Batter
 * Erra Karam
 
