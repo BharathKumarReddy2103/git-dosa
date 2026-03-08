@@ -2,7 +2,7 @@
 
 # Plain Dosa
 * Dosa Batter
-* Light Oil
+<!-- * Light Oil
 
 # Karam Dosa
 * Dosa Batter
@@ -10,4 +10,4 @@
 
 # Egg Dosa
 * Dosa Batter
-* Egg and Karam
+* Egg and Karam -->
